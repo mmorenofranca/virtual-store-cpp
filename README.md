@@ -24,7 +24,3 @@ El programa se organiza en cuatro clases:
 
 El diseño evolucionó en tres versiones conforme avanzó el proyecto: [primera](diagrama1.png), [segunda](diagrama2.png) y [final](diagrama3.png).
 
-
-
-El diseño evolucionó en tres versiones conforme avanzó el proyecto: \[primera](diagrama1.png), \[segunda](diagrama2.png) y \[final](diagrama3.png).
-
